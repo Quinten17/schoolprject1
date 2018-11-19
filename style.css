@@ -50,7 +50,12 @@
     left: 1250px;
 }
 
-
+.vraag2_1 {
+    color: black;
+    border: white;
+    border-style: solid;
+    border-radius: 45px; 
+}
 
 
 
