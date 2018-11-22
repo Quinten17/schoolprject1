@@ -79,4 +79,10 @@
     border-radius: 15px;
 }
 
-
+.foto_2 {
+    position: relative;
+    left: 50px;
+    width: 300px;
+    top: 90px;
+    border-radius: 15px;
+}
