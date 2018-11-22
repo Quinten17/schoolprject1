@@ -71,5 +71,12 @@
     font-size: 25px;
 }
 
+.foto_1 {
+    position: relative;
+    left: 650px;
+    bottom: 150px;
+    width: 450px;
+    border-radius: 15px;
+}
 
 
