@@ -1,0 +1,104 @@
+.page_1 {
+    border: white;
+    border-style: solid;
+    color: black;
+    font-style: normal;
+    font-size: 50px;
+    border-width: 10px; 
+    background-color: white;
+    border-radius: 45px;
+    position: relative;
+    top: 50px;
+}
+
+.intro_2 {
+    border: white;
+    border-style: solid;
+    color: black;
+    font-style: normal;
+    background-color: white;
+    border-radius: 15px; 
+    top: 100px;
+    position: relative; 
+    font-size: 25px;
+}
+
+.page_2 {
+    border: white;
+    border-style: solid;
+    color:black;
+    position: relative;
+    top: 20px;
+    border-radius: 45px;
+    background: white;
+}
+
+.vraag_2_style {
+    color: black;
+    border: white;
+    border-style: solid;
+    top: 50px;
+    position: relative;
+    border-radius: 25px;
+    background: white;
+    font-size: 25px;
+}
+
+.button_1 {
+    position: relative;
+    top: 100px;
+    left: 1250px;
+}
+
+.vraag2_1 {
+    color: black;
+    border: white;
+    border-style: solid;
+    border-radius: 45px; 
+    position: relative;
+    top: 25px;
+    background-color: white;
+}
+
+.vraag2_2 {
+    color: black;
+    border: white;
+    border-style: solid;
+    border-radius: 15px;
+    position: relative;
+    top: 50px;
+    background-color: white;
+    font-size: 25px;
+}
+
+.foto_1 {
+    position: relative;
+    left: 650px;
+    bottom: 150px;
+    width: 450px;
+    border-radius: 15px;
+}
+
+.foto_2 {
+    position: relative;
+    left: 50px;
+    width: 300px;
+    top: 90px;
+    border-radius: 15px;
+    bottom: 200px;
+}
+
+.foto_2_1 {
+    position: relative;
+    left: 500px;
+    width: 400px;
+    border-radius: 15px;
+}
+
+.foto_2_2 {
+    position: relative;
+    left: -280px;
+    width: 300px;
+    top: 110px;
+    border-radius: 15px;
+}
