@@ -138,3 +138,22 @@
         bottom: 30px;
         border-radius: 15px;
 }
+
+.vraag_4_1 {
+    border: white;
+    border-style: solid;
+    background-color: white;
+    border-radius: 45px;
+        position: relative;
+            top: 25px;
+}
+
+.vraag-4-2 {
+    border: white;
+    border-style: solid;
+    background-color: white;
+    border-radius: 15px;
+        position: relative;
+        top: 50px;
+    font-size: 25px;
+}
