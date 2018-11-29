@@ -102,3 +102,39 @@
     top: 110px;
     border-radius: 15px;
 }
+
+.vraag_3_1 {
+    border: white;
+    border-style: solid;
+    background-color: white;
+    border-radius: 45px;
+        position: relative;
+            top: 25px;
+}
+
+.vraag_3_2 {
+    border: white;
+    border-style: solid;
+    background-color: white;
+    border-radius: 15px;
+        position: relative;
+            top: 50px;
+    font-size: 25px;
+}
+
+.foto_3_1 {
+    position: relative;
+        width: 450px;
+        top: 30px;
+        left: 70px;
+        border-radius: 15px;
+        bottom: 2px;
+}
+
+.foto-3-2 {
+    position: relative;
+        width: 300px;
+        left: 400px;
+        bottom: 30px;
+        border-radius: 15px;
+}
