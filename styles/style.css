@@ -173,3 +173,76 @@
         left: 200px;
         border-radius: 15px;
 }
+
+.vraag_5_1 {
+    border: white;
+    border-style: solid;
+    background-color: white;
+    border-radius: 45px;
+        position: relative;
+            top: 25px;
+}  
+
+.vraag_5_2 {
+    border: white;
+    border-style: solid;
+    background-color: white;
+    border-radius: 15px;
+        position: relative;
+            top: 50px;
+    font-size: 25px;
+}
+
+.vraag_6_1 {
+    border: white;
+    border-style: solid;
+    background-color: white;
+    border-radius: 45px;
+        position: relative;
+            top: 25px;
+}
+
+.kunstwerk-1 {
+ width: 400px;
+ position: relative;
+    top: 50px;
+    border-radius: 15px;
+}
+
+.kunstwerk-2 {
+    width: 400px;
+    position: relative;
+        border-radius: 15px;
+        left: 550px;
+        bottom: 270px;
+
+}
+
+.button-2 {
+    position: relative;
+    left: 1250px;
+    top: 100px;
+}
+
+.fotos-7 {
+position: relative;
+    top: 50px;
+    left: 100px;
+    border-radius: 15px;
+}
+
+.mij-1 {
+    width: 450px;
+    position: relative;
+    top: 90px;
+    left: 100px;
+    transform: rotate(90deg);
+}
+
+.mij-2 {
+    width: 450px;
+    position: relative;
+    top: 90px;
+    left: 200px;
+    transform: rotate(90deg);
+}
